@@ -14,3 +14,6 @@ los 2 commits mas recientes.
 
 Las banderas del comando `git-log` se pueden usar juntas segun convenga, por ejemplo:
 `git log --after='2018-10-14 05:00:00' --before='2018-10-14 08:50:00'`
+
+`git log --oneline`
+Este comando nos muestra el historial en una sola linea por commit.
