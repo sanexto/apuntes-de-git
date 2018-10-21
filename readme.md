@@ -20,4 +20,4 @@ git config --list
 ```
 
 ## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta ricardodp225295.
+Este texto fue aportado desde la cuenta de @ricardodp225295.
