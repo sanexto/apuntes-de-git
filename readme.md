@@ -30,4 +30,8 @@ Usando Git Bash seguimos los siguientes pasos:
 
 4. Agregamos la llave ssh generada a ssh-agent ejecutando el comando `ssh-add`.
 
-5. Desde ahora podemos hacer pull y push sin que GitHub no este pidiendo los datos de acceso.
+5. Usar el comando `cat` para ver el contenido de la llave publica. Con este comando vemos el contenido del archivo, copiamos todo el texto que nos muestra.
+
+6. Ir a las configuraciones de nuestro perfil de Github y agregar una nueva llave SSH con el contenido que hemos copiado del archivo `.pub`
+
+Desde ahora podemos hacer pull y push sin que GitHub no este pidiendo los datos de acceso.
